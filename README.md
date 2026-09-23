@@ -13,9 +13,18 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Trishn112/LeetCode/tree/master/0018-4sum) |
 | [0125-valid-palindrome](https://github.com/Trishn112/LeetCode/tree/master/0125-valid-palindrome) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Trishn112/LeetCode/tree/master/0125-valid-palindrome) |
+## Array
+|  |
+| ------- |
+| [0018-4sum](https://github.com/Trishn112/LeetCode/tree/master/0018-4sum) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/Trishn112/LeetCode/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
