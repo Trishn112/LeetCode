@@ -16,6 +16,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0018-4sum](https://github.com/Trishn112/LeetCode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Trishn112/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Trishn112/LeetCode/tree/master/0125-valid-palindrome) |
+| [0142-linked-list-cycle-ii](https://github.com/Trishn112/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Trishn112/LeetCode/tree/master/0143-reorder-list) |
 ## String
 |  |
@@ -58,6 +59,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Trishn112/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Trishn112/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Trishn112/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Recursion
@@ -73,4 +75,12 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Trishn112/LeetCode/tree/master/0053-maximum-subarray) |
+## Hash Table
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Trishn112/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Trishn112/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
