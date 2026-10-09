@@ -67,12 +67,14 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0061-rotate-list](https://github.com/Trishn112/LeetCode/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Trishn112/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Trishn112/LeetCode/tree/master/0143-reorder-list) |
+| [0203-remove-linked-list-elements](https://github.com/Trishn112/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Trishn112/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Trishn112/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Trishn112/LeetCode/tree/master/0143-reorder-list) |
+| [0203-remove-linked-list-elements](https://github.com/Trishn112/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Trishn112/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Trishn112/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Stack
