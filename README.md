@@ -19,6 +19,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0125-valid-palindrome](https://github.com/Trishn112/LeetCode/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/Trishn112/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Trishn112/LeetCode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/Trishn112/LeetCode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Trishn112/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
@@ -39,6 +40,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | ------- |
 | [0018-4sum](https://github.com/Trishn112/LeetCode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Trishn112/LeetCode/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/Trishn112/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Trishn112/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quicksort
 |  |
@@ -52,6 +54,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Trishn112/LeetCode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Trishn112/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Trishn112/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -67,6 +70,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0061-rotate-list](https://github.com/Trishn112/LeetCode/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Trishn112/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Trishn112/LeetCode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/Trishn112/LeetCode/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Trishn112/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Trishn112/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Trishn112/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -127,4 +131,8 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Trishn112/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Trishn112/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Trishn112/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
