@@ -10,6 +10,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Trishn112/LeetCode/tree/master/0007-reverse-integer) |
+| [0263-ugly-number](https://github.com/Trishn112/LeetCode/tree/master/0263-ugly-number) |
 ## Two Pointers
 |  |
 | ------- |
