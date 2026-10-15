@@ -23,6 +23,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0143-reorder-list](https://github.com/Trishn112/LeetCode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Trishn112/LeetCode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Trishn112/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Trishn112/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
 |  |
 | ------- |
@@ -39,6 +40,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0074-search-a-2d-matrix](https://github.com/Trishn112/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Trishn112/LeetCode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Trishn112/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Trishn112/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -46,6 +48,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0075-sort-colors](https://github.com/Trishn112/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Trishn112/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Trishn112/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Trishn112/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Quicksort
 |  |
 | ------- |
@@ -111,6 +114,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Trishn112/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Trishn112/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -120,6 +124,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Trishn112/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/Trishn112/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Trishn112/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Matrix
 |  |
 | ------- |
