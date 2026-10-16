@@ -14,6 +14,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Trishn112/LeetCode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Trishn112/LeetCode/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/Trishn112/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Trishn112/LeetCode/tree/master/0061-rotate-list) |
@@ -35,6 +36,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Trishn112/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Trishn112/LeetCode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Trishn112/LeetCode/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/Trishn112/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Trishn112/LeetCode/tree/master/0053-maximum-subarray) |
@@ -163,4 +165,8 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Trishn112/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Trishn112/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
