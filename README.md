@@ -29,6 +29,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Trishn112/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Trishn112/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Trishn112/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Trishn112/LeetCode/tree/master/0125-valid-palindrome) |
@@ -37,6 +38,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Trishn112/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Trishn112/LeetCode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Trishn112/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/Trishn112/LeetCode/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/Trishn112/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Trishn112/LeetCode/tree/master/0053-maximum-subarray) |
@@ -169,4 +171,8 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Trishn112/LeetCode/tree/master/0011-container-with-most-water) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Trishn112/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
