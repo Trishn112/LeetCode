@@ -46,6 +46,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0075-sort-colors](https://github.com/Trishn112/LeetCode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Trishn112/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Trishn112/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0704-binary-search](https://github.com/Trishn112/LeetCode/tree/master/0704-binary-search) |
 ## Sorting
 |  |
 | ------- |
@@ -130,6 +131,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0004-median-of-two-sorted-arrays](https://github.com/Trishn112/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/Trishn112/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Trishn112/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0704-binary-search](https://github.com/Trishn112/LeetCode/tree/master/0704-binary-search) |
 ## Matrix
 |  |
 | ------- |
