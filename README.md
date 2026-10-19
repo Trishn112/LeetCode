@@ -33,6 +33,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0020-valid-parentheses](https://github.com/Trishn112/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Trishn112/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Trishn112/LeetCode/tree/master/0125-valid-palindrome) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Trishn112/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Array
 |  |
 | ------- |
@@ -55,6 +56,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0148-sort-list](https://github.com/Trishn112/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Trishn112/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Trishn112/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Trishn112/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Quicksort
 |  |
 | ------- |
@@ -177,4 +179,8 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Trishn112/LeetCode/tree/master/0014-longest-common-prefix) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Trishn112/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
