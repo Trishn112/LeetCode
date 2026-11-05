@@ -48,6 +48,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0074-search-a-2d-matrix](https://github.com/Trishn112/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Trishn112/LeetCode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Trishn112/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Trishn112/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Trishn112/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/Trishn112/LeetCode/tree/master/0704-binary-search) |
 ## Sorting
@@ -57,6 +58,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0075-sort-colors](https://github.com/Trishn112/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Trishn112/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Trishn112/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Trishn112/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Trishn112/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Trishn112/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Quicksort
@@ -75,15 +77,18 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0053-maximum-subarray](https://github.com/Trishn112/LeetCode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Trishn112/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Trishn112/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Trishn112/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Trishn112/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Trishn112/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Trishn112/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Trishn112/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Trishn112/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -125,6 +130,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Trishn112/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Trishn112/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Trishn112/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -185,5 +191,10 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Trishn112/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Trishn112/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Trishn112/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
