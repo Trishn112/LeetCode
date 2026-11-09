@@ -160,6 +160,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0111-minimum-depth-of-binary-tree](https://github.com/Trishn112/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Trishn112/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Trishn112/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0572-subtree-of-another-tree](https://github.com/Trishn112/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -167,6 +168,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0111-minimum-depth-of-binary-tree](https://github.com/Trishn112/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Trishn112/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Trishn112/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0572-subtree-of-another-tree](https://github.com/Trishn112/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -175,6 +177,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0111-minimum-depth-of-binary-tree](https://github.com/Trishn112/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Trishn112/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Trishn112/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0572-subtree-of-another-tree](https://github.com/Trishn112/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Merge Sort
 |  |
 | ------- |
@@ -211,4 +214,12 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Trishn112/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Trishn112/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Trishn112/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Trishn112/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Trishn112/LeetCode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
