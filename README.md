@@ -18,4 +18,12 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Trishn112/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+## Array
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/Trishn112/LeetCode/tree/master/0041-first-missing-positive) |
+## Hash Table
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/Trishn112/LeetCode/tree/master/0041-first-missing-positive) |
 <!---LeetCode Topics End-->
