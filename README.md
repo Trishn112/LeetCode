@@ -9,6 +9,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Trishn112/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Trishn112/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 ## Breadth-First Search
 |  |
@@ -17,6 +18,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Trishn112/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Trishn112/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 ## Array
 |  |
@@ -26,4 +28,12 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Trishn112/LeetCode/tree/master/0041-first-missing-positive) |
+## Depth-First Search
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Trishn112/LeetCode/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Trishn112/LeetCode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
