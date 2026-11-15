@@ -11,6 +11,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Trishn112/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Trishn112/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0543-diameter-of-binary-tree](https://github.com/Trishn112/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -20,6 +21,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Trishn112/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Trishn112/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0543-diameter-of-binary-tree](https://github.com/Trishn112/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Array
 |  |
 | ------- |
@@ -32,8 +34,13 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Trishn112/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Trishn112/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Trishn112/LeetCode/tree/master/0098-validate-binary-search-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Trishn112/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
