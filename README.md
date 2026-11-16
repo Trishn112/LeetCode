@@ -26,6 +26,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Trishn112/LeetCode/tree/master/0041-first-missing-positive) |
+| [0162-find-peak-element](https://github.com/Trishn112/LeetCode/tree/master/0162-find-peak-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Trishn112/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0162-find-peak-element](https://github.com/Trishn112/LeetCode/tree/master/0162-find-peak-element) |
 ## DP on Trees
 |  |
 | ------- |
