@@ -30,6 +30,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Trishn112/LeetCode/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/Trishn112/LeetCode/tree/master/0048-rotate-image) |
 | [0162-find-peak-element](https://github.com/Trishn112/LeetCode/tree/master/0162-find-peak-element) |
 ## Hash Table
 |  |
@@ -56,4 +57,12 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Trishn112/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Trishn112/LeetCode/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Trishn112/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
