@@ -12,6 +12,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0098-validate-binary-search-tree](https://github.com/Trishn112/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Trishn112/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/Trishn112/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Trishn112/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Trishn112/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -23,6 +24,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0098-validate-binary-search-tree](https://github.com/Trishn112/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Trishn112/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/Trishn112/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Trishn112/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Trishn112/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Array
 |  |
@@ -38,6 +40,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Trishn112/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Trishn112/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Trishn112/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Trishn112/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -47,5 +50,10 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Trishn112/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Trishn112/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Trishn112/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
