@@ -34,6 +34,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0041-first-missing-positive](https://github.com/Trishn112/LeetCode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Trishn112/LeetCode/tree/master/0048-rotate-image) |
 | [0162-find-peak-element](https://github.com/Trishn112/LeetCode/tree/master/0162-find-peak-element) |
+| [0410-split-array-largest-sum](https://github.com/Trishn112/LeetCode/tree/master/0410-split-array-largest-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0098-validate-binary-search-tree](https://github.com/Trishn112/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/Trishn112/LeetCode/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/Trishn112/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0410-split-array-largest-sum](https://github.com/Trishn112/LeetCode/tree/master/0410-split-array-largest-sum) |
 ## DP on Trees
 |  |
 | ------- |
@@ -60,6 +62,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Trishn112/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0410-split-array-largest-sum](https://github.com/Trishn112/LeetCode/tree/master/0410-split-array-largest-sum) |
 ## Math
 |  |
 | ------- |
@@ -72,4 +75,12 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Trishn112/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Trishn112/LeetCode/tree/master/0410-split-array-largest-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Trishn112/LeetCode/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
