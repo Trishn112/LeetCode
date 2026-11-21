@@ -39,6 +39,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Trishn112/LeetCode/tree/master/0041-first-missing-positive) |
+| [0242-valid-anagram](https://github.com/Trishn112/LeetCode/tree/master/0242-valid-anagram) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -85,4 +86,12 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Trishn112/LeetCode/tree/master/0410-split-array-largest-sum) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Trishn112/LeetCode/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Trishn112/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
