@@ -39,6 +39,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0048-rotate-image](https://github.com/Trishn112/LeetCode/tree/master/0048-rotate-image) |
 | [0162-find-peak-element](https://github.com/Trishn112/LeetCode/tree/master/0162-find-peak-element) |
 | [0410-split-array-largest-sum](https://github.com/Trishn112/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0973-k-closest-points-to-origin](https://github.com/Trishn112/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +80,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 | [0048-rotate-image](https://github.com/Trishn112/LeetCode/tree/master/0048-rotate-image) |
 | [0096-unique-binary-search-trees](https://github.com/Trishn112/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0367-valid-perfect-square](https://github.com/Trishn112/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0973-k-closest-points-to-origin](https://github.com/Trishn112/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Matrix
 |  |
 | ------- |
@@ -103,4 +105,25 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Trishn112/LeetCode/tree/master/0242-valid-anagram) |
+| [0973-k-closest-points-to-origin](https://github.com/Trishn112/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Trishn112/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Trishn112/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Trishn112/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Trishn112/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Trishn112/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
