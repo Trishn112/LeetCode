@@ -35,6 +35,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Trishn112/LeetCode/tree/master/0016-3sum-closest) |
 | [0041-first-missing-positive](https://github.com/Trishn112/LeetCode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Trishn112/LeetCode/tree/master/0048-rotate-image) |
 | [0162-find-peak-element](https://github.com/Trishn112/LeetCode/tree/master/0162-find-peak-element) |
@@ -104,6 +105,7 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Trishn112/LeetCode/tree/master/0016-3sum-closest) |
 | [0242-valid-anagram](https://github.com/Trishn112/LeetCode/tree/master/0242-valid-anagram) |
 | [0973-k-closest-points-to-origin](https://github.com/Trishn112/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Divide and Conquer
@@ -126,4 +128,8 @@ Backup by [SyncLeet](https://chromewebstore.google.com/detail/syncleet/maoikpiio
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Trishn112/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/Trishn112/LeetCode/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
